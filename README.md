@@ -1,6 +1,7 @@
 <h1>LogisticsService</h1>
 URL:http://servicelogistics20180505020236.azurewebsites.net/help<br/>
 <h2 id="Logistics">API Tutorial</h2>
+<h3>ex: http://servicelogistics20180505020236.azurewebsites.net/Api/Logistics</h3>
 <table class="help-page-table">
     <thead>
         <tr><th>API</th><th>Description</th></tr>
